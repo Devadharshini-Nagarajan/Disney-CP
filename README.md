@@ -1,6 +1,6 @@
 # Disney Clone
 
-Welcome to the Disney Clone! This application replicates the Disney+ streaming service, allowing users to browse through a collection of movies. The app features authentication using Firebase Authentication for secure email sign-in functionality. It also utilizes Firebase Firestore to store movie details and React Redux for efficient state management.
+Welcome to the Disney Clone! This application replicates the Disney+ streaming service, allowing users to browse through a collection of movies. The app features authentication using Firebase Authentication for secure email sign-in functionality. It also utilizes Firestore Database to store movie details and React Redux for efficient state management.
 You can run the app online by visiting [Disney Clone](https://webofdeva-disney.netlify.app/).
 
 <img width="1440" alt="image" src="https://github.com/Devadharshini-Nagarajan/Disney-CP/assets/113491692/25d4fcd6-e531-46e0-ae0a-e550f233e911">
@@ -11,13 +11,13 @@ You can run the app online by visiting [Disney Clone](https://webofdeva-disney.n
 - React
 - Redux
 - Firebase Authentication
-- Firebase Firestore
+- Firestore Database
   
 ## Features
 
 - **Movie Browsing**: Users can browse through a collection of movies available on the platform.
 - **Authentication**: Secure email sign-in using Firebase Authentication.
-- **Database**: Firebase Firestore is used to store and manage movie details.
+- **Database**: Firestore Database is used to store and manage movie details.
 - **State Management**: React Redux is employed for efficient state management, ensuring seamless user experiences.
 
 
